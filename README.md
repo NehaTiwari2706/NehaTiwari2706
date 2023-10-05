@@ -1,7 +1,7 @@
 [![MasterHead](https://redbackstudios.in/images/Android-Mobile-Application-Development-letsnurture.png)](https://nehatiwari2706.io)
 
 <h1 align="center">Hi 👋, I'm Neha Tiwari</h1>
-<h3 align="center">A Passionate Coder and Android Developer </h3>
+<h3 align="center">A Passionate Coder, Android Development and Machine Learning Enthusiast </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/nehatiwari27_06" target="blank"><img src="https://img.shields.io/twitter/follow/nehatiwari27_06?logo=twitter&style=for-the-badge" alt="nehatiwari27_06" /></a> </p>
 
-- 🔭 I’m currently working on **Attendance App**
+- 🔭 I’m currently working on **Machine Learning Model**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android , DSA along C++**
+- 💬 Ask me about **Android ,Machine Leaning and DSA along C++**
 
 - 📫 How to reach me **tiwari27neha06@gmail.com**
 
