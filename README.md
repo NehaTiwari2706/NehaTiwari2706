@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/nehatiwari27_06" target="blank"><img src="https://img.shields.io/twitter/follow/nehatiwari27_06?logo=twitter&style=for-the-badge" alt="nehatiwari27_06" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Model**
+- 🔭 I’m currently working on **News App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Android ,Machine Leaning and DSA along C++**
 
