@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tiwari27neha06@gmail.com**
 
-- 📄 Know about my experiences [Click to view my Resume](https://docs.google.com/document/d/1pDC3dq0DM32DKG7rWWyNgqJPHVr2XMFHgBy0CX6CYeg/edit?usp=share_link)
+- 📄 Know about my experiences [Click to view my Resume](https://drive.google.com/file/d/1lruMFV612OXQImE2CCt2A2wN0sTKHo8M/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
